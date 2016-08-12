@@ -1,0 +1,19 @@
+p{
+  color: green;
+  text-align: center;
+}
+h1{ 
+	color: red;
+	text-align: center;
+}
+ul{
+	color: lightblue;
+  text-align: center;
+}
+li{
+	color: gray;
+  text-align: center;
+}
+body{
+	background-color: antiquewhite
+}
